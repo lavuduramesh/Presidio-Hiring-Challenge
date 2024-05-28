@@ -1,0 +1,36 @@
+  .center{
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+  }
+  center h1{
+    text-align: center;
+    padding: 0 0 0 0;
+    border-bottom: 0 solid rgba(33, 182, 184, 0.567);
+  }
+  button {
+    background-color: rgba(156, 32, 178, 0.492);   
+    width: 100%;
+    color:black;
+    padding: 14px 20px;   
+    margin: 8px 0px;   
+    border: none;   
+    cursor: pointer;
+  }
+  input[type=text] {
+    width: 100%;   
+    margin: 8px 0;  
+    padding: 12px 20px;   
+    display: inline-block;   
+    border: 3px solid rgba(8, 49, 71, 0.619);   
+    box-sizing: border-box;
+  }
+  .container {
+    padding: 40px;
+    background-color: rgba(84, 64, 165, 0.349);
+  }
+  span.psw {
+    float:right;
+    padding-top: 16px;
+  }  
